@@ -1,7 +1,3 @@
-# CLOUD-BASED-MUSIC-AND-MOVIE-STREAMING-SERVER
-
-# README.md
-
 # AI Personal Cloud-Based Music and Movie Streaming Server
 
 ## Project Overview
